@@ -1,0 +1,194 @@
+{
+  "": {
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/master.swiftdeps"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Auth/AuthDelegate.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthDelegate.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthDelegate.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthDelegate.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthDelegate.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Auth/AuthHandshake.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthHandshake.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthHandshake.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthHandshake~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthHandshake.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthHandshake.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Auth/AuthMethod.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthMethod.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthMethod.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthMethod~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthMethod.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthMethod.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Auth/AuthProtocol.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthProtocol.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthProtocol.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthProtocol.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthProtocol.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Auth/AuthStreamReader.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthStreamReader.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthStreamReader.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthStreamReader~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthStreamReader.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/AuthStreamReader.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Auth/PINGenerator.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/PINGenerator.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/PINGenerator.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/PINGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/PINGenerator.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/PINGenerator.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Auth/ViewerAuthSession.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/ViewerAuthSession.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/ViewerAuthSession.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/ViewerAuthSession~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/ViewerAuthSession.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/ViewerAuthSession.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Discovery/TimberAdvertiser.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberAdvertiser.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberAdvertiser.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberAdvertiser~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberAdvertiser.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberAdvertiser.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Discovery/TimberBrowser.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberBrowser.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberBrowser.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberBrowser~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberBrowser.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberBrowser.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Discovery/TimberService.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberService.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberService.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberService~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberService.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberService.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Internal/BundleResolver.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/BundleResolver.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/BundleResolver.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/BundleResolver~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/BundleResolver.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/BundleResolver.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Internal/Constants.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/Constants.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/Constants.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/Constants~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/Constants.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/Constants.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Internal/_TimberGlobals.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/_TimberGlobals.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/_TimberGlobals.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/_TimberGlobals~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/_TimberGlobals.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/_TimberGlobals.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Timber.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/Timber.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/Timber.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/Timber~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/Timber.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/Timber.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/TimberDiagnostics.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberDiagnostics.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberDiagnostics.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberDiagnostics~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberDiagnostics.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberDiagnostics.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/TimberError.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberError.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberError.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberError~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberError.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberError.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/TimberLevel.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberLevel.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberLevel.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberLevel~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberLevel.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberLevel.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/TimberMacros.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberMacros.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberMacros.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberMacros~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberMacros.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberMacros.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Transport/BufferingConfiguration.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/BufferingConfiguration.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/BufferingConfiguration.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/BufferingConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/BufferingConfiguration.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/BufferingConfiguration.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Transport/BufferingStreamHandler.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/BufferingStreamHandler.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/BufferingStreamHandler.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/BufferingStreamHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/BufferingStreamHandler.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/BufferingStreamHandler.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Transport/LogBuffer.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/LogBuffer.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/LogBuffer.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/LogBuffer~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/LogBuffer.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/LogBuffer.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Transport/SecureStreamHandler.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/SecureStreamHandler.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/SecureStreamHandler.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/SecureStreamHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/SecureStreamHandler.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/SecureStreamHandler.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Transport/StreamHandler.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/StreamHandler.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/StreamHandler.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/StreamHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/StreamHandler.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/StreamHandler.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/Transport/TCPStreamHandler.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TCPStreamHandler.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TCPStreamHandler.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TCPStreamHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TCPStreamHandler.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TCPStreamHandler.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/UI/TimberPINDisplayView.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberPINDisplayView.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberPINDisplayView.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberPINDisplayView~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberPINDisplayView.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberPINDisplayView.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/UI/TimberPairingView.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberPairingView.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberPairingView.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberPairingView~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberPairingView.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberPairingView.dia"
+  },
+  "/Users/david/repo/oslog_experiments/TimberKit/Sources/TimberKit/UI/TimberStatusView.swift": {
+    "dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberStatusView.d",
+    "object": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberStatusView.swift.o",
+    "swiftmodule": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberStatusView~partial.swiftmodule",
+    "swift-dependencies": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberStatusView.swiftdeps",
+    "diagnostics": "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/TimberKit.build/TimberStatusView.dia"
+  }
+}

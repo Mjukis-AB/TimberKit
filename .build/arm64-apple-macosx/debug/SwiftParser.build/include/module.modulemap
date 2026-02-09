@@ -1,0 +1,3 @@
+module SwiftParser {
+    header "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/SwiftParser.build/include/SwiftParser-Swift.h"
+}

@@ -1,0 +1,62 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-syntax",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/swiftlang/swift-syntax.git",
+          "name" : "swift-syntax"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "0687f71944021d616d34d922343dcef086855920",
+            "version" : "600.0.1"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-syntax"
+      }
+    ],
+    "prebuilts" : [
+      {
+        "cModules" : [
+
+        ],
+        "checkoutPath" : "/Users/david/repo/oslog_experiments/TimberKit/.build/checkouts/swift-syntax",
+        "identity" : "swift-syntax",
+        "includePath" : [
+          "Sources/_SwiftLibraryPluginProviderCShims/include",
+          "Sources/_SwiftSyntaxCShims/include"
+        ],
+        "libraryName" : "MacroSupport",
+        "path" : "/Users/david/repo/oslog_experiments/TimberKit/.build/prebuilts/swift-syntax/600.0.1/swiftlang-6.2.1.4.8-MacroSupport-macos_aarch64",
+        "products" : [
+          "swift-syntaxPackageTests",
+          "SwiftBasicFormat",
+          "SwiftCompilerPlugin",
+          "SwiftDiagnostics",
+          "SwiftIDEUtils",
+          "SwiftOperators",
+          "SwiftParser",
+          "SwiftParserDiagnostics",
+          "SwiftRefactor",
+          "SwiftSyntax",
+          "SwiftSyntaxBuilder",
+          "SwiftSyntaxMacros",
+          "SwiftSyntaxMacroExpansion",
+          "SwiftSyntaxMacrosTestSupport",
+          "SwiftSyntaxMacrosGenericTestSupport",
+          "_SwiftCompilerPluginMessageHandling",
+          "_SwiftLibraryPluginProvider"
+        ],
+        "version" : "600.0.1"
+      }
+    ]
+  },
+  "version" : 7
+}
