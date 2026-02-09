@@ -1,3 +1,0 @@
-module SwiftSyntaxMacrosGenericTestSupport {
-    header "/Users/david/repo/oslog_experiments/TimberKit/.build/arm64-apple-macosx/debug/SwiftSyntaxMacrosGenericTestSupport.build/include/SwiftSyntaxMacrosGenericTestSupport-Swift.h"
-}
