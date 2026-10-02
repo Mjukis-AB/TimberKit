@@ -1,3 +1,7 @@
+READ ~/mjukis/projects/agent-scripts/AGENTS.md BEFORE ANYTHING (skip if missing).
+
+READ ~/agent-rules/AGENTS.md BEFORE ANYTHING (skip if missing).
+
 # TimberKit - Technical Reference
 
 This document provides detailed technical context for AI assistants working on TimberKit.

@@ -113,7 +113,7 @@ If `method` was not `"none"`, the app responds with credentials.
 ```json
 {
   "type": "auth_response",
-  "token": "timber_ak_1234567890abcdef"
+  "token": "YOUR_TOKEN"
 }
 ```
 
